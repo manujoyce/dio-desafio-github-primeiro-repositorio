@@ -1,5 +1,5 @@
-# Reositorio do desafio de projeto sobre git/github
-Desafio de projeto da dio.me sobre git-github
+# Desafio de projeto sobre git/github
+Repositorio criado para o desafia de projeto.
 
 ##Links uteis
 
