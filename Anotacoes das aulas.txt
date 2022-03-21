@@ -1,0 +1,157 @@
+Logica de programação essencial
+
+O que é fluxograma.
+
+é uma ferramenta utilizada para representar 
+graficamente o algoritmo, é uma sequencia logica.
+
+é um diagrama e pode ser representado esquematico de um
+ processo.
+
+"uma variavel é um espaço na memoria do computador 
+destinado a um dado que é alterado durante a execução 
+do algoritmo"
+
+programa
+{
+	
+	funcao inicio()
+	{
+
+		inteiro contador =0
+		cadeia dados[][]={{"João"," São Paulo (11)9999-5241"},{"Maria" , " Ribeirão Preto(11)9999-6789"},{"Ana", " Manaus (11)9999-8965"}}
+			faca{
+
+			escreva( dados[contador][0]  + dados[contador][1] + "\n")
+			contador++
+		}enquanto(contador<=2)
+		
+		//escreva("Produto: ")
+		//escreva(cesta[1][0])
+		//escreva("Quantidade: ")
+		//escreva(cesta[1][1])
+		
+	}
+
+	
+		
+   }
+
+
+programa
+{
+	
+	funcao inicio()
+	{
+		cadeia frutas[4]
+		inteiro contador =0
+		
+		frutas[0]="Maça"
+		frutas[1]="Pera"
+		frutas[2]="Uva"
+		frutas[3]="Jaca"
+
+		faca{
+			escreva(frutas[contador] +"\n")
+			contador++
+			
+		}enquanto(contador <=3)
+		
+	}
+}
+
+--------------------------------------------------------
+Pensamento computacional
+
+BOOTCAMP da DIO.
+
+aula 1- Notas sobre a aula
+
+pensamento computacional- é onde há um passo a passo de
+formulação de problemas e que tenha uma formação de uma 
+solução sobre o problemas pensamento eficiente
+é uma habilidade generalista.
+escrita, leitura, matematica....
+é necessario para resolver soluções
+
+baseado em 4 pilares.
+decomposição- contexto complexo e dividir em uma maneira mais facil para se resover.
+
+reconhecimento de padrões- identificar padroes ou tendencias
+similaridade e diferenças emtre os problemas, padrão comportamental
+
+abstração-extrapolar o connceito do problema para uma forma generalista
+
+Design de algoritmo- automatizar, definir passo a passo do problema, da uma entrada
+um processo e uma saida.
+
+Processo contínuo
+definir uma solução
+testar a solução
+aperfeiçoamento da solução encontrada
+
+variação dos pilares- raciocinio logico, decomposição, padroes, abstração, algoritimos,
+refinamento.
+
+Competencias- pensamento sistematico
+colaboração dentro da equipe
+criatividade e designr
+facilitador.
+
+aula 1.2 - notas sobre a aula.
+habilidades complementares
+
+Raciocinio logico- é uma forma de pensamento estruturado, que permite encontrar
+determinada solução.
+
+classicado como- indução dedução abdução
+
+indução- são baseados no que se experimentou leis e teorias
+
+dedução- previsão e explicação, dada a leis e teorias
+
+abdução- utiliza a conclusão de algo, como grama molhada tem haver que choveu.
+
+Inferencia, sintetica ou analitica,
+sintetica abdução e indução.
+analitica, dedução.
+
+
+aperfeiçoamento
+melhorar, aprimorar, refinamento,
+
+Ato de aperfeicoar.
+Encontrar soluções eficiente
+Otimizar processos
+simplificar linhas de códigos
+funções bem definidas
+
+processo continuo, presente em todas as etapas
+
+
+vantagens maior compreensão, mais eficiencia, menos tempo, menos armazenamento.
+
+--------------------------------------------------------------------------------
+
+Introdução ao git/github
+O Git, como já foi mencionado antes, é um sistema de controle de versão
+que, pela sua estrutura interna, é como se fosse uma máquina do
+tempo extremamente veloz, e um robô de integração muito
+competente.
+
+Comandos basicos do git
+git init - inicia um repositorio
+git status - verifica se tem commmit a serem feitos
+pwd – que verifica onde você está no sistema de arquivos atual.
+ls – lista arquivos no diretório atual.
+cd [nome-do-diretório] – move-se para o nome ou caminho do diretório fornecido.
+mkdir [nome-do-diretório] – cria um novo diretório com o nome escolhido.
+
+--------------------------------------------------------------------------------
+
+metodologia ageis com scrum
+
+A metodologia Scrum é uma ótima opção ganhar eficiência e qualidade nos projetos da empresa.
+Baseada nos princípios dos métodos ágeis, ela tem como objetivo reduzir o tempo 
+de entrega de produtos e se adaptar a mudanças com maior facilidade durante as 
+etapas produtivas
